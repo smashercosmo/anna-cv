@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/portfolio"
+  to = "/cv.pdf"
+  status = 200
